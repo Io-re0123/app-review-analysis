@@ -8,11 +8,14 @@ __ML__
 ・[scikit-learn](https://scikit-learn.org/ "scikit-learn")  
 ・[PyTorch](https://pytorch.org/ "PyTorch")  
 ・[Tansformers](https://huggingface.co/docs/transformers/index "Transfomers")  
+
 __データ操作__  
 ・[NumPy](https://numpy.org/ja/ "NumPy")  
 ・[Pandas](https://pandas.pydata.org/ "Pandas")  
+
 __可視化__  
 ・[nlplot](https://github.com/takapy0210/nlplot "nlplot")  
 ・[Matplotlib](https://matplotlib.org/ "Matplotlib")  
+
 __スクレイピング__  
 [google-play-scraper](https://github.com/facundoolano/google-play-scraper "google-play-scraper")  
