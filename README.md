@@ -18,4 +18,4 @@ __可視化__
 ・[Matplotlib](https://matplotlib.org/ "Matplotlib")  
 
 __スクレイピング__  
-[google-play-scraper](https://github.com/facundoolano/google-play-scraper "google-play-scraper")  
+・[google-play-scraper](https://github.com/facundoolano/google-play-scraper "google-play-scraper")  
