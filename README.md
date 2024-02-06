@@ -4,15 +4,15 @@
 GooglePlay上のInstagramのレビューをスクレイピングし、BERTによるネガポジ分類と共起ネットワーク等の可視化、ロジスティック回帰を用いたキーワードがネガポジへ及ぼす影響度の算出を行いました。  
 GooglePlay上にあるアプリで、レビューが一定数取得可能であればどのアプリでも機能させることができます。
 ## 主なライブラリ
-_ML_  
+__ML__  
 ・[scikit-learn](https://scikit-learn.org/ "scikit-learn")  
 ・[PyTorch](https://pytorch.org/ "PyTorch")  
 ・[Tansformers](https://huggingface.co/docs/transformers/index "Transfomers")  
-_データ操作_  
+__データ操作__  
 ・[NumPy](https://numpy.org/ja/ "NumPy")  
 ・[Pandas](https://pandas.pydata.org/ "Pandas")  
-_可視化_  
+__可視化__  
 ・[nlplot](https://github.com/takapy0210/nlplot "nlplot")  
 ・[Matplotlib](https://matplotlib.org/ "Matplotlib")  
-_スクレイピング_  
+__スクレイピング__  
 [google-play-scraper](https://github.com/facundoolano/google-play-scraper "google-play-scraper")  
